@@ -1,0 +1,2 @@
+# challenge3.1
+This challenge is just one page, that have some features about Rocketseat's company, like Rocketseat's github, facebook and Instagram links. Furthermore, has a paragraph about Rocketseat company and links to enter the Rocketseat's comunite, with the possibilite also to call Rocketseat's company phone. As well have a link to Rocketseat's blog and a list with some of tecnologics that the Rocketseat's online course teaches.
